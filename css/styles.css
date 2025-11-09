@@ -1,0 +1,55 @@
+.header {
+width: 617;
+height: 320.5687255859375;
+padding-top: 26.45px;
+padding-right: 75.11px;
+padding-bottom: 26.45px;
+padding-left: 75.11px;
+gap: 42.82px;
+angle: 0 deg;
+opacity: 1;
+top: 88px;
+left: 635px;
+
+.header{width: 1280;
+height: 444;
+padding-top: 42px;
+padding-right: 24px;
+padding-bottom: 42px;
+padding-left: 24px;
+gap: 68px;
+angle: 0 deg;
+opacity: 1;
+}
+
+
+.img1 { width: 480;
+height: 360;
+min-width: 320px;
+max-width: 480px;
+angle: 0 deg;
+opacity: 1;
+}
+.gallary{width: 2480;
+height: 1030;
+padding-top: 42px;
+padding-right: 24px;
+padding-bottom: 42px;
+padding-left: 24px;
+gap: 42px;
+angle: 0 deg;
+opacity: 1;
+
+}
+.skills{
+    width: 1480;
+height: 513;
+padding-top: 42px;
+padding-right: 24px;
+padding-bottom: 42px;
+padding-left: 24px;
+gap: 42px;
+angle: 0 deg;
+opacity: 1;
+}
+
